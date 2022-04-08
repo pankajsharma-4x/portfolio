@@ -134,13 +134,13 @@ font-weight: 500;
     display: none;
   }
   .i-img{
-    width: 350px;
+    width: 315px;
     height: 253px;
     object-fit: cover;
   }
   .i-right {
     align-items: flex-start;
-    margin-top: -8vh;
+    /* margin-top: -8vh; */
   }
   .i-name {
     font-size: 32px;
@@ -150,5 +150,8 @@ font-weight: 500;
   } */
   .i-scroll {
     display: none;
+}
+.i-left-wrapper {
+  height: 60%;
 }
   }

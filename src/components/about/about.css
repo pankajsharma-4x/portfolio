@@ -81,12 +81,14 @@
         height: auto;
       }
   
-      .a-left {
+      /* .a-left {
         width: 100%;
         justify-content: flex-start;
         margin-top: -10vh;
+      } */
+      .a-left{
+        display: none;
       }
-  
       .a-card {
         height: 30vh;
         margin: 0px 30px;
