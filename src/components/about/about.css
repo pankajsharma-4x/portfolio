@@ -76,16 +76,8 @@
   @media screen and (max-width:480px) {
       .a{
         flex-direction: column;
-        /* text-align: center; */
-        /* margin-top: 50px; */
         height: auto;
       }
-  
-      /* .a-left {
-        width: 100%;
-        justify-content: flex-start;
-        margin-top: -10vh;
-      } */
       .a-left{
         display: none;
       }
@@ -97,10 +89,6 @@
       .a-card.bg, .a-award {
         display: none;
       }
-      /* .a-award {
-        display: none;
-      } */
-  
       .a-right{
         padding: 30px;
       }

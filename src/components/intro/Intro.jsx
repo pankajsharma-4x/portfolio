@@ -23,7 +23,6 @@ const Intro = () => {
             online stores.
           </p>
           <div className="download--btn">
-          {/* <button className="download">Download CV</button> */}
           <button className="download"><a href="https://glaze-reading-2c3.notion.site/Pankaj-Sharma-7987b67b054042b6bb3dc033b36068ed" target="_blank">Download CV</a></button>
           </div>
          
@@ -86,7 +85,6 @@ const Intro = () => {
         </svg>
       </div>
       <div className="i-right">
-        {/* <div className="i-bg"></div> */}
         <img  src={code} alt="" className="i-img" />
         
       </div>
