@@ -49,9 +49,5 @@ export const products = [
       img: proximoerp,
       link: "https://proximoerp.netlify.app",
     },
-    {
-      id: 9,
-      img: "",
-      link: "",
-    },
+    
   ];
