@@ -5,6 +5,8 @@ import todo from "../src/img/todo.png";
 import weather from "../src/img/weather.png";
 import tinDog from "../src/img/tindog.png";
 import groove from "../src/img/groove.png"
+import matrialui from "../src/img/matrialui.png"
+import proximoerp from "../src/img/matrialui.png"
 
 export const products = [
     {
@@ -36,5 +38,15 @@ export const products = [
       id: 6,
       img: groove,
       link: "https://pankajsharma-4x.github.io/GROOV/",
+    },
+    {
+      id: 7,
+      img: matrialui,
+      link: "https://matrialui.netlify.app",
+    },
+    {
+      id: 8,
+      img: proximoerp,
+      link: "https://proximoerp.netlify.app",
     },
   ];
