@@ -6,7 +6,7 @@ import weather from "../src/img/weather.png";
 import tinDog from "../src/img/tindog.png";
 import groove from "../src/img/groove.png"
 import matrialui from "../src/img/matrialui.png"
-import proximoerp from "../src/img/matrialui.png"
+import proximoerp from "../src/img/proximoerp.png"
 
 export const products = [
     {
