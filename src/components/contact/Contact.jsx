@@ -43,11 +43,11 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +91 97166828390
+              +91 9716828390
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              hello@pankaj4x.com
+               pankajsharma4x@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
